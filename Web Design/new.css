@@ -1,0 +1,42 @@
+.subtitle{
+    color: red;
+}
+
+#contact-us{
+    color:blue;
+}
+
+h3:hover{
+    color: bisque;
+}
+
+#FOSCO{
+    color:yellow;
+}
+
+/* li:last-child { */
+ color:green;
+}
+
+h2 . a{
+    color:blueviolet;
+}
+
+textarea ~ button{
+    color: chocolate;
+}
+
+ul > ol{
+    color: orange;
+}
+ul li{
+    color: pink;
+}
+
+img[src*="../image/"]{
+    border: 10px solid black;
+}
+
+h3[class*="article-subtitle"]{
+    background-color: blue;
+}
